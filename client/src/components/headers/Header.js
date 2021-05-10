@@ -21,7 +21,7 @@ function Header() {
         <ul>
             <li><Link to="/studs">Studs</Link></li>
             <li><Link to="/puppies">Puppies</Link></li>
-            <li><Link to="/contact">Contact Us</Link></li>
+            <li><Link className="contact-link" to="/contact">Contact Us</Link></li>
         </ul>
  
         
