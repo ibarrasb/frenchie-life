@@ -1,0 +1,33 @@
+
+.container-box{
+    width: auto;
+  margin: auto;
+  display: block;
+  margin-top: -300px;
+    background-color: aqua;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+.home-section{
+    position: relative;
+  padding: 20rem 0;
+  
+}
+img.merle-dog{
+    display: block;
+    width: 100%;
+}
+.img {
+    border:1px solid black;
+    }
+    .img:hover {
+    border: none;
+    box-shadow: 0 0 10px black inset;
+    }

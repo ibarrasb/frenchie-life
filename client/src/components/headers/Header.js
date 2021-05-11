@@ -3,6 +3,8 @@ import {GlobalState} from '../../GlobalState'
 import Menu from './icon/menu.svg'
 import Close from './icon/close.svg'
 import {Link} from 'react-router-dom'
+import svg from '../../img/dog.png'
+import './header.css'
 
 function Header() {
     const value = useContext(GlobalState)
@@ -14,7 +16,11 @@ function Header() {
 
         <div className='logo'>
             <h1>
-                <Link to="/">Frenchie Life</Link>
+               
+                <Link className="title-name" to="/">
+                <img className='svg-pic' src={svg} ></img>
+                Frenchie Life
+                </Link>
             </h1>
         </div>
 
