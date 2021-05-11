@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/frenchie-life/static/css/main.ba1b5cfd.chunk.css",
+    "main.js": "/frenchie-life/static/js/main.edd98d91.chunk.js",
+    "main.js.map": "/frenchie-life/static/js/main.edd98d91.chunk.js.map",
+    "runtime-main.js": "/frenchie-life/static/js/runtime-main.602cb48c.js",
+    "runtime-main.js.map": "/frenchie-life/static/js/runtime-main.602cb48c.js.map",
+    "static/js/2.a647eb66.chunk.js": "/frenchie-life/static/js/2.a647eb66.chunk.js",
+    "static/js/2.a647eb66.chunk.js.map": "/frenchie-life/static/js/2.a647eb66.chunk.js.map",
+    "index.html": "/frenchie-life/index.html",
+    "static/css/main.ba1b5cfd.chunk.css.map": "/frenchie-life/static/css/main.ba1b5cfd.chunk.css.map",
+    "static/js/2.a647eb66.chunk.js.LICENSE.txt": "/frenchie-life/static/js/2.a647eb66.chunk.js.LICENSE.txt",
+    "static/media/close.ea7c95d7.svg": "/frenchie-life/static/media/close.ea7c95d7.svg",
+    "static/media/dog.3b1c68fc.png": "/frenchie-life/static/media/dog.3b1c68fc.png",
+    "static/media/menu.e8db7520.svg": "/frenchie-life/static/media/menu.e8db7520.svg",
+    "static/media/pups2.3c45113c.jpg": "/frenchie-life/static/media/pups2.3c45113c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.602cb48c.js",
+    "static/js/2.a647eb66.chunk.js",
+    "static/css/main.ba1b5cfd.chunk.css",
+    "static/js/main.edd98d91.chunk.js"
+  ]
+}
