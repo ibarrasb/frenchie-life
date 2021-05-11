@@ -9,12 +9,13 @@
     text-align: center;
     color: white;
 }
-.centered {
+.centered-text {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: transparent;
+    font-size: 50px;
   }
 .home-section{
     position: relative;

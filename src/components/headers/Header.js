@@ -19,7 +19,7 @@ function Header() {
                
                 <Link className="title-name" to="/">
                 <img className='svg-pic' src={svg} ></img>
-                Frenchie Life
+                Go Frenchie
                 </Link>
             </h1>
         </div>
