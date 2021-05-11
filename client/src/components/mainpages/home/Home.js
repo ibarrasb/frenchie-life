@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css'
-import Merle from '../../../img/merle2.jpg'
+import Merle from '../../../img/pups2.jpg'
 
 function Home() {
     return (
