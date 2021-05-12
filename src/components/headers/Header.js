@@ -6,6 +6,7 @@ import {Link} from 'react-router-dom'
 import svg from '../../img/dog.png'
 import './header.css'
 
+
 function Header() {
     const value = useContext(GlobalState)
     return (
@@ -21,11 +22,14 @@ function Header() {
                 <img className='svg-pic' src={svg} ></img>
                 Go Frenchie
                 </Link>
+                
             </h1>
         </div>
 
-        <ul>
-            <li><Link to="/studs">Studs</Link></li>
+       
+
+        <ul className='bar-head'>
+           <li><Link to="/studs">Studs</Link></li>
             <li><Link to="/puppies">Puppies</Link></li>
             <li><Link className="contact-link" to="/contact">Contact Us</Link></li>
         </ul>

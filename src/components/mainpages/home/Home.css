@@ -16,11 +16,21 @@
     transform: translate(-50%, -50%);
     background-color: transparent;
     font-size: 50px;
+    font-family: 'Satisfy', cursive;
   }
 .home-section{
     position: relative;
   padding: 20rem 0;
   
+}
+.insta-svg{
+  background-color: transparent;
+}
+.bottom-svg{
+  position: absolute;
+  top: 8px;
+  left: 16px;
+
 }
 @media screen and (max-width: 600px) {
   .centered-text {
