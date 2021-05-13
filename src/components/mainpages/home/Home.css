@@ -12,6 +12,12 @@
     text-align: center;
     color: white;
 }
+.akc-title{
+  margin-top: 10px;
+  margin-left: 25px;
+  text-align: left;
+}
+
 .centered-text {
     position: absolute;
     top: 50%;
@@ -29,6 +35,11 @@
 .insta-svg{
   background-color: transparent;
 }
+
+.headline{
+  font-family: 'Satisfy', cursive;
+}
+
 .about-us{
   text-align: center;
   margin-top: 15px;
@@ -40,11 +51,11 @@
 .akc-svg{
   float: left;
   width: 200px;
+  margin-left: 10px;
 }
 .akc-text{
-  text-align: left;
-  float: right;
-  max-width: 80%;
+  text-align: center;
+  font-size: xx-large;
 }
 
 .bottom-svg{
@@ -66,7 +77,8 @@
     text-align: center;
     max-width: 100%;
     margin-top: 10px;
-    margin-left: -14%;
+    margin-left: -11%;
+    font-size: unset;
   }
 }
 img.merle-dog{
