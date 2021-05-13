@@ -3,6 +3,7 @@ import './Home.css'
 import Merle from '../../../img/pups2.jpg'
 // import TwoDogs from '../../../img/IMG_7224.heic'
 import AKC from '../../../img/akc.svg'
+import Tag from '../../../img/tag-solid.svg'
 
 
 function Home() {
@@ -26,10 +27,15 @@ function Home() {
           </div>
 
           <div className='payment-sec'>
+          <img src={Tag} alt='' className='pay-svg' width='40px'/>
           <h2 className='pnd'>Payments & Deposits</h2>
           <p className='pnd-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis </p>
-          
-          
+          </div>
+
+          <div className='shipping-sec'>
+          <h2 className='ship'>Shipping</h2>
+
+          <p className='ship-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
           </div>
          
         </section>
