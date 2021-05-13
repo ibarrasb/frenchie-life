@@ -6,7 +6,7 @@
   font-family: 'Nanum Gothic', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #202124;
+  background-color: cornflowerblue;
 }
 .contact-link{
   border-radius: 300px;
@@ -21,6 +21,7 @@
 }
 .title-name{
   font-family: 'Satisfy', cursive;
+  color: aliceblue;
 }
 .contact-link:hover{
   background-color: black;
@@ -70,7 +71,7 @@ header .logo {
 }
 header a {
   
-  color: #555;
+  color: aliceblue;
 }
 header ul li {
   display: inline-block;

@@ -24,6 +24,13 @@ function Home() {
            <h3 className="headline akc-title">Quality AKC DNA Pups</h3>
            <p className='akc-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
           </div>
+
+          <div className='payment-sec'>
+          <h2 className='pnd'>Payments & Deposits</h2>
+          <p className='pnd-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis </p>
+          
+          
+          </div>
          
         </section>
     );
