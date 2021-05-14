@@ -4,6 +4,7 @@ import Merle from '../../../img/pups2.jpg'
 // import TwoDogs from '../../../img/IMG_7224.heic'
 import AKC from '../../../img/akc.svg'
 import Tag from '../../../img/tag-solid.svg'
+import PupSVG from '../../../img/pup-svg.svg'
 
 
 function Home() {
@@ -32,11 +33,16 @@ function Home() {
           <p className='pnd-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis </p>
           </div>
 
+          <div className='pup2-svg'>
+          <img className='pup-pup' src={PupSVG} alt=''></img>
+          </div>
+
           <div className='shipping-sec'>
           <h2 className='ship'>Shipping</h2>
-
           <p className='ship-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
           </div>
+
+          
          
         </section>
     );

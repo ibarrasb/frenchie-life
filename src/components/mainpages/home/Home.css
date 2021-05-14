@@ -2,6 +2,13 @@
   color: aliceblue;
 
 }
+.pup-pup{
+  border-radius: 50%;
+  width: 400px;
+}
+.pup2-svg{
+  text-align: center;
+}
 .container-box{
     width: auto;
   margin: auto;
@@ -107,6 +114,9 @@
   }
   .pnd-text{
     font-size: unset;
+  }
+  .pup-pup{
+    width: 250px;
   }
 }
 img.merle-dog{
