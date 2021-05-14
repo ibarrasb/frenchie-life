@@ -57,8 +57,13 @@
   }
 .home-section{
     position: relative;
-  padding: 20rem 0;
+ margin-bottom: 25px;
+ margin-top: 330px;
   
+}
+h2.ship{
+  font-family: 'Satisfy', cursive;
+  font-size: xx-large;
 }
 .pay-svg{
   background-color: transparent;
