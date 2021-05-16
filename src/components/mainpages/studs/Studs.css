@@ -1,0 +1,26 @@
+.studs-section{
+    position: relative;
+    margin: 40px;
+    margin-top: 0;
+}
+.title-studs{
+    text-align: center;
+}
+.pup-cont{
+    margin-bottom: 15px;
+    width: 100%;
+    height: 250px;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+.pup-pic-cont{
+    max-width: 100px;
+    max-height: 100px;
+    background-color: red;
+}
+.pup-info{
+    max-width: 100px;
+    max-height: 100px;
+    background-color: blue;
+
+}
