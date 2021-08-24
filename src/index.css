@@ -6,13 +6,17 @@
   font-family: 'Nanum Gothic', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: cornflowerblue;
+
+
 }
 .contact-link{
   border-radius: 300px;
   border: 2px solid;
   padding: 10px;
 
+}
+body{
+  background-image: url(./img/cool-background-4.png);
 }
 .svg-pic{
   max-width: 60px;
